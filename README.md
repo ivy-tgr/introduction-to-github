@@ -7,6 +7,13 @@
 
 # Communicate using Markdown
 
+Hello this is some `code`.
+
+```java
+var abc = 1;
+abc + abc;
+```
+
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 <!--
